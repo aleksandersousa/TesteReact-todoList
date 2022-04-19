@@ -1,0 +1,35 @@
+{
+  "data": {
+    "light": {
+      "id": "001",
+      "name": "Light",
+      "colors": {
+        "header": "#f9c616",
+        "body": "#f6f6f6",
+        "primaryDark": "#191414",
+        "primaryLight": "#ffffff",
+        "primaryGrey": "#F1F0F0",
+        "secondaryGrey": "#888686",
+        "gold": "#DFBD4A",
+        "blue": "#69ABD0",
+        "border": "#fbd551",
+        "secondaryBorder": "#cecabf",
+        "boxShadow": "#fce38b",
+        "primaryGreen": "#bee0b6",
+        "secondaryGreen": "#79c266",
+        "delete": "#DE4A4A"
+      },
+      "fontSizes": {
+        "extraSmall": "0.75rem",
+        "small": "1rem",
+        "mediumSmall": "1.2rem",
+        "medium": "1.5rem",
+        "large": "2rem"
+      },
+      "breakpoints": {
+        "tablet": "768px",
+        "mobile": "480px"
+      }
+    }
+  }
+}
